@@ -83,9 +83,9 @@
     {
       "name" : "HashVault.pro",
       "url" : "https://turtle.hashvault.pro/",
-      "apiAddress" : "https://turtle.hashvault.pro/api/",
+      "apiAddress" : "https://api.hashvault.pro/v2/turtle/",
       "scriptType" : "node.js",
-      "miningAddress" : "pool.turtle.hashvault.pro",
+      "miningAddress" : "pool.hashvault.pro",
       "miningPort" : "5555"
     },
     {
